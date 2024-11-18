@@ -6,10 +6,10 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=conexao1&bg_color=00000000" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=conexao1&layout=donut&langs_count=8&card_width=200&bg_color=00000000" />
 </a>
 
