@@ -1,19 +1,11 @@
 🎓 Computer Science student.  
-🌟 I enjoy learning new technologies and applying them to solve problems.  
-🚀 Currently exploring the world of Java and enhancing my backend skills.
-
----
-
-## GitHub Stats
 
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=conexao1&bg_color=00000000" />
 </a>
-<a href="">
+<!-- <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=conexao1&layout=donut&langs_count=8&card_width=200&bg_color=00000000" />
-</a>
-
----
+</a> -->
 
 ## Languages and Tools
 <div style="display: flex; gap: 10px;">
@@ -25,23 +17,10 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-
-  
 </div>
-
-### 🌱 Currently Learning
-<div style="display: flex; gap: 10px;">
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</div>
-
----
 
 ## Connect with Me
 
 <a href="https://www.linkedin.com/in/vinicius-lameirao">
   <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
----
-
-*Thanks for visiting my profile! Feel free to explore my repositories and reach out if you’d like to collaborate.* 
